@@ -18,9 +18,9 @@ doctrine/dbal (opcional para alterações em migrations)
 
 # 🐘 Versão da Linguagem e Versão da ORM
 
-PHP 8.2+  
-Laravel 11.x  
-Eloquent ORM (integrado ao Laravel 11)
+PHP 8.2.12 (cli)
+Laravel Framework 11.9.0
+Eloquent ORM 11.9.0
 
 ## About Laravel
 
